@@ -1,4 +1,3 @@
-```js
 // discord https://discord.gg/aX25MCec27
 // create by Ranger#6017
 // version en 1.0
@@ -68,4 +67,3 @@ room.setPlayerTeam(changedPlayer.id, 0);
     if (byPlayer) room.sendAnnouncement(changedPlayer.name + " afk and can't be moved [AFK].", null, colors.yellow, "bold");
     }
 }
-```
